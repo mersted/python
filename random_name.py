@@ -1,6 +1,3 @@
-# Random Name Generator
-# 1/20/14
-
 # This program randomly generates any number of names
 # The program has a pre-set list of first and last names,
 # but the user can add any appropriate name of their 
